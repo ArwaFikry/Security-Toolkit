@@ -1,5 +1,7 @@
-download python from this website 
+Download Python from this website 
 https://www.python.org/downloads/ 
+
+
 
 then run this Cmd commands :
 
@@ -8,6 +10,8 @@ Pip install tkinter
 pip install customtkinter
 
 pip install pillow
+
+
 
 Libraries used : 
 
