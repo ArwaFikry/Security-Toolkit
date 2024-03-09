@@ -1,7 +1,7 @@
 Download Python from this website 
 https://www.python.org/downloads/ 
 
-
+use pycharm app to run it 
 
 then run this Cmd commands :
 
